@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="overScrollMode">
+        <enum name="always" value="0" />
+        <enum name="ifContentScrolls" value="1" />
+        <enum name="never" value="2" />
+    </attr>
+</resources>
