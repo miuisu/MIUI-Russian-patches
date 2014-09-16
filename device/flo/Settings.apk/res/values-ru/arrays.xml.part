@@ -13,4 +13,101 @@
         <item>Закрыть текущее приложение</item>
         <item>Показать меню</item>
     </string-array>
+    <string-array name="app_ops_categories">
+        <item>Местоположение</item>
+        <item>Личные данные</item>
+        <item>Обмен сообщениями</item>
+        <item>Медиа</item>
+        <item>Устройство</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибрация</item>
+        <item>Чтение контактов</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Изменение журнала вызовов</item>
+        <item>Чтение календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
+        <item>Уведомления</item>
+        <item>Местоположение</item>
+        <item>Вызов</item>
+        <item>Получение сообщений</item>
+        <item>Отправка сообщений</item>
+        <item>Получение сообщений</item>
+        <item>Получение сообщений</item>
+        <item>Получение сообщений</item>
+        <item>Получение сообщений</item>
+        <item>Отправка сообщений</item>
+        <item>Получение сообщений</item>
+        <item>Написание сообщений</item>
+        <item>Изменение настроек</item>
+        <item>Всплывающее уведомление</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Камера</item>
+        <item>Запись аудио</item>
+        <item>Воспроизведение аудио</item>
+        <item>Чтение буфера обмена</item>
+        <item>Изменение буфера обмена</item>
+        <item>Медиа клавиши</item>
+        <item>Аудио фокус</item>
+        <item>Общая громкость</item>
+        <item>Громкость голоса</item>
+        <item>Громкость мелодии</item>
+        <item>Громкость медиа</item>
+        <item>Громкость будильника</item>
+        <item>Громкость уведомлений</item>
+        <item>Громкость bluetooth</item>
+        <item>Режим активности</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>неточное определение местоположения</item>
+        <item>точное определение местоположения</item>
+        <item>GPS</item>
+        <item>вибрация</item>
+        <item>чтение контактов</item>
+        <item>изменение контактов</item>
+        <item>чтение журнала вызовов</item>
+        <item>изменение журнала вызовов</item>
+        <item>чтение календаря</item>
+        <item>изменение календаря</item>
+        <item>сканирование wi-fi</item>
+        <item>уведомления</item>
+        <item>поиск сети</item>
+        <item>вызов</item>
+        <item>чтение сообщений</item>
+        <item>написание сообщений</item>
+        <item>получение сообщений</item>
+        <item>получение экстренных сообщений</item>
+        <item>получение MMS</item>
+        <item>получение WAP push</item>
+        <item>отправка сообщений</item>
+        <item>чтение ICC SMS</item>
+        <item>изменение ICC SMS</item>
+        <item>изменение настроек</item>
+        <item>всплывающие уведомления</item>
+        <item>доступ к уведомлениям</item>
+        <item>камера</item>
+        <item>запись аудио</item>
+        <item>воспроизведение аудио</item>
+        <item>чтение буфера обмена</item>
+        <item>изменение буфера обмена</item>
+        <item>медиа клавиши</item>
+        <item>аудио фокус</item>
+        <item>общая громкость</item>
+        <item>громкость голоса</item>
+        <item>громкость мелодии</item>
+        <item>громкость медиа</item>
+        <item>громкость будильника</item>
+        <item>громкость уведомлений</item>
+        <item>громкость bluetooth</item>
+        <item>режим активности</item>
+        <item>контроль местоположения</item>
+        <item>контроль точного местоположения</item>
+    </string-array>
 </resources>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Нормальная</item>
+        <item>Быстрая</item>
+        <item>Быстрее</item>
+        <item>Очень быстрая</item>
+        <item>Скоростная</item>
+        <item>Очень скоростная</item>
+        <item>Самая быстрая</item>
+    </string-array>
+</resources>
