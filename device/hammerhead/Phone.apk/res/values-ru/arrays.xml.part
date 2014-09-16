@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
-        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA/LTE</item>
-        <item>TD-SCDMA/GSM/WCDMA</item>
-        <item>TD-SCDMA/GSM/LTE</item>
-        <item>TD-SCDMA/GSM</item>
-        <item>TD-SCDMA/LTE</item>
-        <item>TD-SCDMA/WCDMA</item>
-        <item>TD-SCDMA only</item>
-        <item>LTE / WCDMA</item>
+        <item>LTE/WCDMA</item>
         <item>LTE</item>
         <item>Global</item>
         <item>GSM/WCDMA/LTE</item>
@@ -19,8 +9,8 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Только EvDo</item>
         <item>CDMA без EvDo</item>
-        <item>CDMA / EvDo (автоматический режим)</item>
-        <item>GSM / WCDMA (автоматический режим)</item>
+        <item>CDMA/EvDo авто</item>
+        <item>GSM/WCDMA авто</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
         <item>GSM/WCDMA (предпочтительно)</item>
