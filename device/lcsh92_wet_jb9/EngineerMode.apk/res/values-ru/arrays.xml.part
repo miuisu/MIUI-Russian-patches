@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="audio_functions">
+        <item>Нормальный режим</item>
+        <item>Наушники</item>
+        <item>Громкая связь</item>
+        <item>Наушники - Громкая связь</item>
+        <item>Выделение речи</item>
+        <item>Отладочная информация</item>
+        <item>Отладочная сессия</item>
+        <item>Логирование речи</item>
+        <item>Логирование аудио</item>
+     </string-array>
+     <string-array name="mTddNetworkLabels">
+        <item>Только GSM</item>
+        <item>Только TD-SCDMA</item>
+        <item>GSM/TD-SCDMA (Авто)</item>
+     </string-array>
+</resources>
